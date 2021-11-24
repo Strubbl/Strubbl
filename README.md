@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![include_all_commits=true](https://github-readme-stats.vercel.app/api?username=Strubbl&include_all_commits=true&show_icons=true)
+
+![current year](https://github-readme-stats.vercel.app/api?username=Strubbl&show_icons=true&hide=stars,prs,issues,contribs)
+
+![languages top10](https://github-readme-stats.vercel.app/api/top-langs/?username=Strubbl&langs_count=10)
+
 <!--
 **Strubbl/Strubbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
